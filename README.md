@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmett</h1>
-<h3 align="center">A passionate frontend developer from Boulder, CO</h3>
+<h3 align="center">A passionate full-stack developer from Boulder, CO</h3>
 
 - 🔭 I’m currently working on [Family Meal](https://github.com/emmettturtle/family-meal)
 
